@@ -1,6 +1,6 @@
 Libraries provided by UCI CS121 in Fall 2021
 
-Co-written by @ and @
+Co-written by @CactusDuud, @mkrick-uci, and @linntonn
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
